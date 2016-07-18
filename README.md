@@ -1,4 +1,4 @@
-# FontBook
+# &#128214; FontBook
 
 ## Remember my web font tool
 ### Simple evolved whislist
