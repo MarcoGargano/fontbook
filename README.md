@@ -8,4 +8,4 @@ This project want to give you a possibility to save your best web font selection
 * Save
 * Will share
 
-[Google Font API](https://developers.google.com/fonts/)
+Thx [Google Font API](https://developers.google.com/fonts/)
