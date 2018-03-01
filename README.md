@@ -11,7 +11,9 @@ What does the project need?
 2. **Save**
 3. **Share**
 
+
 - - -
+
 
 ### 1. Login
 Use [Google Sign-in](https://developers.google.com/identity/sign-in/web/sign-in) to profile user.
@@ -24,19 +26,19 @@ No database required.
 ### 3. Share
 Create public personal list and share it!
 
+
 - - -
+
 
 ## Features
-Font preview.
-
-Available style preview.
-
-Generate embed snippet code with multi fonts.
-
-Direct download of local package font.
+- Font preview.
+- Available style preview.
+- Generate embed snippet code with multi fonts.
+- Direct download for local package font.
 
 
 - - -
+
 
 Thx [Google Font API](https://developers.google.com/fonts/)
 
