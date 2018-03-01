@@ -2,8 +2,6 @@
 
 ## Save your best selection of Google fonts.
 
-- - -
-
 ### You can save in one place your Google font that you usualy use for your projetct.
 ### From here you can embed the web code otherwise download the package font.
 
@@ -12,6 +10,8 @@ What does the project need?
 1. **Login**
 2. **Save**
 3. **Share**
+
+- - -
 
 ### 1. Login
 Use [Google Sign-in](https://developers.google.com/identity/sign-in/web/sign-in) to profile user.
@@ -28,9 +28,13 @@ Create public personal list and share it!
 
 ## Features
 Font preview.
+
 Available style preview.
+
 Generate embed snippet code with multi fonts.
+
 Direct download of local package font.
+
 
 - - -
 
