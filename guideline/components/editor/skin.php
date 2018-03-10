@@ -1,0 +1,1 @@
+<!-- components/editor/skin.php -->

@@ -1,0 +1,22 @@
+[
+    {
+        "category": "modules",
+        "order": 1
+    },
+    {
+        "category": "jsExample",
+        "order": 3
+    },
+    {
+        "category": "media",
+        "order": 2
+    },
+    {
+        "category": "base",
+        "order": 0
+    },
+    {
+        "category": "editor",
+        "order": 5
+    }
+]

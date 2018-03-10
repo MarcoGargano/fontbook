@@ -1,0 +1,101 @@
+/* scss/base/_font.scss */
+@import url("https://fonts.googleapis.com/css?family=Muli:300,400,600");
+html, body {
+  font-family: 'Muli', sans-serif;
+  font-weight: 400; }
+
+h1, h2, h3 {
+  font-weight: 300; }
+
+h4, h5, h6 {
+  font-weight: 600; }
+
+/* scss/base/_color.scss */
+.color1 {
+  background: #00aff0; }
+
+.color2 {
+  background: #3D4A57; }
+
+.color3 {
+  background: #5583B2; }
+
+.color4 {
+  background: #D7F3F6; }
+
+.color5 {
+  background: #35363a; }
+
+.color6 {
+  background: #656565; }
+
+.colors:before,
+.colors:after {
+  content: " ";
+  display: table; }
+
+.colors:after {
+  clear: both; }
+
+.colors {
+  *zoom: 1; }
+
+.color {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+  padding: 10px;
+  color: #fff;
+  font-size: 12px; }
+
+.colorFixed {
+  position: fixed;
+  z-index: 3000;
+  right: 0;
+  top: 0;
+  -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.57);
+  box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.57); }
+  .colorFixed .color {
+    float: none;
+    margin-right: 0;
+    width: 70px;
+    height: 50px; }
+
+/* scss/modules/_box.scss */
+.box {
+  background: #eee;
+  padding: 20px;
+  width: 300px;
+  height: 150px; }
+
+/* scss/media/_image.scss */
+img.image {
+  padding: 10px;
+  margin: 10px;
+  border: solid 1px #eee; }
+
+/* scss/jsExample/_clickme.scss */
+.click {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  -webkit-transition: left .25s;
+  -o-transition: left .25s;
+  transition: left .25s;
+  background: #ccf9bf;
+  padding: 20px 40px;
+  display: inline-block; }
+
+.clickAnimate {
+  left: 80%; }
+
+/* scss/editor/_skin.scss */
+#atomsWrap .compTitle {
+  font-size: 62px;
+  line-height: 0;
+  font-weight: 300; }
+
+#atomsWrap .compTitle .fa {
+  font-size: 18px;
+  vertical-align: baseline; }
