@@ -1,7 +1,7 @@
 /* scss/base/_font.scss */
 @import url("https://fonts.googleapis.com/css?family=Muli:300,400,600");
 html, body {
-  font-family: 'Muli', sans-serif;
+  font-family: "Muli", sans-serif;
   font-weight: 400; }
 
 h1, h2, h3 {
@@ -62,34 +62,6 @@ h4, h5, h6 {
     width: 70px;
     height: 50px; }
 
-/* scss/modules/_box.scss */
-.box {
-  background: #eee;
-  padding: 20px;
-  width: 300px;
-  height: 150px; }
-
-/* scss/media/_image.scss */
-img.image {
-  padding: 10px;
-  margin: 10px;
-  border: solid 1px #eee; }
-
-/* scss/jsExample/_clickme.scss */
-.click {
-  cursor: pointer;
-  position: relative;
-  left: 0;
-  -webkit-transition: left .25s;
-  -o-transition: left .25s;
-  transition: left .25s;
-  background: #ccf9bf;
-  padding: 20px 40px;
-  display: inline-block; }
-
-.clickAnimate {
-  left: 80%; }
-
 /* scss/editor/_skin.scss */
 #atomsWrap .compTitle {
   font-size: 62px;
@@ -98,4 +70,5 @@ img.image {
 
 #atomsWrap .compTitle .fa {
   font-size: 18px;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+  margin-right: -15px; }

@@ -1,14 +1,10 @@
 [
     {
-        "category": "modules",
+        "category": "Organisms",
         "order": 1
     },
     {
-        "category": "jsExample",
-        "order": 3
-    },
-    {
-        "category": "media",
+        "category": "Templates",
         "order": 2
     },
     {
@@ -17,6 +13,10 @@
     },
     {
         "category": "editor",
-        "order": 5
+        "order": 4
+    },
+    {
+        "category": "Pages",
+        "order": 3
     }
 ]

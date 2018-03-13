@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script type="text/javascript">
+        window.location.href = 'atomic-core/?cat=base';
+    </script>
     <title>Title of the document</title>
 
     <?php include("atomic-head.php"); ?>
