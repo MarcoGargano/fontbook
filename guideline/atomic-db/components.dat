@@ -1,26 +1,34 @@
 [
     {
         "component": "color",
-        "category": "base",
-        "description": "",
-        "backgroundColor": "",
-        "order": 1,
-        "has_js": "false"
-    },
-    {
-        "component": "font",
-        "category": "base",
+        "category": "Base",
         "description": "",
         "backgroundColor": "",
         "order": 0,
         "has_js": "false"
     },
     {
+        "component": "font",
+        "category": "Base",
+        "description": "",
+        "backgroundColor": "",
+        "order": 1,
+        "has_js": "false"
+    },
+    {
         "component": "skin",
-        "category": "editor",
+        "category": "Editor",
         "description": "",
         "backgroundColor": "",
         "order": -4,
+        "has_js": "false"
+    },
+    {
+        "component": "Button",
+        "category": "Atoms",
+        "description": "",
+        "backgroundColor": "",
+        "order": -2,
         "has_js": "false"
     }
 ]

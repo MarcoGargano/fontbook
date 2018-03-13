@@ -1,0 +1,9 @@
+/* scss/Atoms/_Button.scss */
+
+.button {
+    color: $white;
+    text-decoration: none;
+    border: solid 1px $color2;
+    background-color: $color1;
+    border-radius: 4px;
+}

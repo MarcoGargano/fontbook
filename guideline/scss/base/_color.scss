@@ -1,12 +1,8 @@
-/* scss/base/_color.scss */
+/* scss/Base/_color.scss */
 
-$color1: #00aff0;
-$color2: #3D4A57;
-$color3: #5583B2;
-$color4: #D7F3F6;
-$color5: #35363a;
-$color6: #656565;
-
+$white: #FFFFFF;
+$color1: #DB4337;
+$color2: #cc3428;
 
 .color1{
   background: $color1;
@@ -14,19 +10,6 @@ $color6: #656565;
 .color2{
   background: $color2;
 }
-.color3{
-  background: $color3;
-}
-.color4{
-  background: $color4;
-}
-.color5{
-  background: $color5;
-}
-.color6{
-  background: $color6;
-}
-
 
 .colors:before,
 .colors:after {

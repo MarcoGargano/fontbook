@@ -1,1 +1,1 @@
-<!-- components/editor/skin.php -->
+<!-- components/Editor/skin.php -->

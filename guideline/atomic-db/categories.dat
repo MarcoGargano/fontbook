@@ -1,22 +1,30 @@
 [
     {
         "category": "Organisms",
-        "order": 1
+        "order": 3
     },
     {
         "category": "Templates",
-        "order": 2
-    },
-    {
-        "category": "base",
-        "order": 0
-    },
-    {
-        "category": "editor",
         "order": 4
     },
     {
+        "category": "Base",
+        "order": 0
+    },
+    {
+        "category": "Editor",
+        "order": 6
+    },
+    {
         "category": "Pages",
-        "order": 3
+        "order": 5
+    },
+    {
+        "category": "Molecules",
+        "order": 2
+    },
+    {
+        "category": "Atoms",
+        "order": 1
     }
 ]

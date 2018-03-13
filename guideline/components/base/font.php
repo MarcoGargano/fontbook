@@ -1,4 +1,4 @@
-<!-- components/base/font.php -->
+<!-- components/Base/font.php -->
 
 <h1>Sample text H1</h1>
 <h2>Sample text H2</h2>

@@ -1,5 +1,4 @@
 /* scss/Base/_color.scss */
-@import url("https://fonts.googleapis.com/css?family=Muli:300,400,600");
 .color1 {
   background: #DB4337; }
 
@@ -38,34 +37,3 @@
     margin-right: 0;
     width: 70px;
     height: 50px; }
-
-/* scss/Base/_font.scss */
-html, body {
-  font-family: "Muli", sans-serif;
-  font-weight: 400; }
-
-h1, h2, h3 {
-  font-weight: 300; }
-
-h4, h5, h6 {
-  font-weight: 600; }
-
-/* scss/Atoms/_Button.scss */
-.button {
-  color: #FFFFFF;
-  text-decoration: none;
-  border: solid 1px #cc3428;
-  background-color: #DB4337;
-  border-radius: 4px; }
-
-/* scss/Editor/_skin.scss */
-#atomsWrap .compTitle {
-  font-size: 62px;
-  line-height: 0;
-  font-weight: 300; }
-
-#atomsWrap .compTitle .fa,
-.atomic-h1 .fa {
-  font-size: 18px;
-  vertical-align: baseline;
-  margin-right: -15px; }

@@ -1,11 +1,12 @@
-/* scss/editor/_skin.scss */
+/* scss/Editor/_skin.scss */
 
 #atomsWrap .compTitle {
     font-size: 62px;
     line-height: 0;
     font-weight: 300;
 }
-#atomsWrap .compTitle .fa {
+#atomsWrap .compTitle .fa, 
+.atomic-h1 .fa {
     font-size: 18px;
     vertical-align: baseline;
     margin-right: -15px;
