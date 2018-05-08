@@ -2,10 +2,10 @@
 
 ## Save your best selection of Google fonts.
 
-### You can save in one place your Google font that you usualy use for your projetct.
-### From here you can embed the web code otherwise download the package font.
+### With Google Font Book you can save in one place Google fonts that you usually use for your projects.
+### From here you can embed the web code or download the package font.
 
-This project want to give you a possibility to save your best web font selection!
+This project gives you the chance to save your favourite web font selection!
 What does the project need?
 1. **Login**
 2. **Save**
